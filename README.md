@@ -11,10 +11,12 @@
 ---
 
 ### 🌟 About Me  
-- 🎓 Business Administration Specialist in **Human Talent Management**  
-- 🌍 Passionate about **new trends, culture, and people development**  
-- 📊 Currently learning **Databases, SQL, and CLI**  
-- 🤝 Open to collaborating on projects related to **HR, Data, and Tech**  
+- 🔍 **QA Engineer** with experience in **manual and automated testing**  
+- 🧪 Skilled in creating **test plans, test cases, and bug reports**  
+- 💻 Proficient with **SQL, Databases, CLI, GitHub workflows**  
+- 🛠️ Hands-on experience with tools like **Postman, Selenium, and Jira**  
+- 🎯 Passionate about ensuring **product quality, reliability, and user satisfaction**  
+- 🤝 Open to collaborating on **QA, automation, and tech-driven projects**  
 
 ---
 
