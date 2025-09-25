@@ -1,13 +1,12 @@
 
-- <!-- Banner o título -->
+<!-- Banner o título -->
 <h1 align="center">Hi 👋, I'm Ximena</h1>
-<h3 align="center">💼 Business Administration | 👩‍💻 Talent Management | 🚀 Always Learning</h3>
+<h3 align="center">🔍 Ingeniera de Control de Calidad (QA Engineer) | 💼 Administración de Empresas | 👩‍💻 Gestión del Talento | 🚀 Siempre Aprendiendo</h3>
 
 <!-- Efecto de escritura -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4D7DB6&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Learning+SQL+and+CLI;Exploring+Talent+Management+Trends;Sharing+my+journey+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4D7DB6&center=true&vCenter=true&width=600&lines=QA+Engineer+in+progress;Testing+%26+Automation;SQL+%7C+Databases+%7C+CLI;Breaking+things+to+make+them+better+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
 ---
 
 ### 🌟 About Me  
@@ -33,22 +32,13 @@
 
 ## 📫 Conecta conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
-[![Gmail: ximenaarias1003@gmail.com](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
+[![Gmail:ximenaarias1003@gmail.com](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
 
 ---
 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ximena1003&label=Profile%20views&color=0e75b6&style=flat" alt="contador" />
-</p>
-
-<!-- Banner o título -->
-<h1 align="center">Hi 👋, I'm Ximena</h1>
-<h3 align="center">🔍 Aspiring QA Engineer | 💼 Business Administration | 👩‍💻 Talent Management | 🚀 Always Learning</h3>
-
-<!-- Efecto de escritura -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4D7DB6&center=true&vCenter=true&width=600&lines=QA+Engineer+in+progress;Testing+%26+Automation;SQL+%7C+Databases+%7C+CLI;Breaking+things+to+make+them+better+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -81,22 +71,12 @@
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tuemail@correo.com" target="_blank">
+  <a href="mailto:ximenaarias1003@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email%20Me-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
-
-### 🐍 Fun Extra: Contribution Snake  
-![snake gif](https://github.com/ximena1003/ximena1003/blob/output/github-contribution-grid-snake.svg)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ximena1003&label=Profile%20views&color=0e75b6&style=flat" alt="contador" />
-</p>
-
 
 
 ## 🚀 Proyectos Destacados
