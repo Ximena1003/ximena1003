@@ -109,3 +109,66 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ximena1003&label=Profile%20views&color=0e75b6&style=flat" alt="contador" />
 </p>
+
+<!-- Banner o título -->
+<h1 align="center">Hi 👋, I'm Ximena</h1>
+<h3 align="center">🔍 Aspiring QA Engineer | 💼 Business Administration | 👩‍💻 Talent Management | 🚀 Always Learning</h3>
+
+<!-- Efecto de escritura -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4D7DB6&center=true&vCenter=true&width=600&lines=QA+Engineer+in+progress;Testing+%26+Automation;SQL+%7C+Databases+%7C+CLI;Breaking+things+to+make+them+better+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+---
+
+### 🌟 About Me  
+- 🎯 Aspiring **QA Engineer** passionate about **software testing and quality assurance**  
+- 🎓 Background in **Business Administration** with a specialization in **Human Talent Management**  
+- 💻 Currently learning **SQL, Databases, CLI, and Test Automation**  
+- 🔍 Focused on building strong **testing strategies** to improve product quality  
+- 🤝 Excited to collaborate on **QA, testing, and tech-driven projects**  
+
+---
+
+### 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Databases-green?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CLI-black?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-lightgrey?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/-QA%20Testing-orange?style=for-the-badge&logo=testing-library&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ximena1003&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ximena1003&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🌐 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tuemail@correo.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email%20Me-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🐍 Fun Extra: Contribution Snake  
+![snake gif](https://github.com/ximena1003/ximena1003/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ximena1003&label=Profile%20views&color=0e75b6&style=flat" alt="contador" />
+</p>
