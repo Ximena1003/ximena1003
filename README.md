@@ -54,29 +54,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ximena1003&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ximena1003&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🌐 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ximenaarias1003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email%20Me-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
 
 ## 🚀 Proyectos Destacados
 - [Control de Calidad Urban Routes – Automatización de Pruebas con Selenium](https://github.com/Ximena1003/qa-project-Urban-Routes-es.git) 
