@@ -31,22 +31,12 @@
 
 ---
 
-### 🌐 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:tuemail@correo.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email%20Me-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-</p>
+## 📫 Conecta conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
+[![Gmail: ximenaarias1003@gmail.com](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
 
 ---
 
-### 🐍 Fun Extra: Contribution Snake  
-![snake gif](https://github.com/ximena1003/ximena1003/blob/output/github-contribution-grid-snake.svg)
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ximena1003&label=Profile%20views&color=0e75b6&style=flat" alt="contador" />
@@ -63,14 +53,6 @@
 
 ---
 
-### 🌟 About Me  
-- 🎯 Aspiring **QA Engineer** passionate about **software testing and quality assurance**  
-- 🎓 Background in **Business Administration** with a specialization in **Human Talent Management**  
-- 💻 Currently learning **SQL, Databases, CLI, and Test Automation**  
-- 🔍 Focused on building strong **testing strategies** to improve product quality  
-- 🤝 Excited to collaborate on **QA, testing, and tech-driven projects**  
-
----
 
 ### 🛠️ Tech Stack  
 <p align="center">
@@ -132,12 +114,6 @@
 
 ## 🌱 Filosofía
 > *"La calidad no es un rol, es una cultura compartida por todo el equipo."*  
-
----
-
-## 📫 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
-[![Gmail: ximenaarias1003@gmail.com](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
 
 ---
 
