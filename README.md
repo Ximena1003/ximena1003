@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4D7DB6&center=true&vCenter=true&width=600&lines=QA+Engineer+in+progress;Testing+%26+Automation;SQL+%7C+Databases+%7C+CLI;Breaking+things+to+make+them+better+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
----
+
 
 ### 🌟 About Me  
 - 🔍 **QA Engineer** with experience in **manual and automated testing**  
@@ -32,8 +32,7 @@
 
 ## 📫 Conecta conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
-[![Gmail:ximenaarias1003@gmail.com](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
-
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ximenaarias1003@gmail.com)
 ---
 
 
