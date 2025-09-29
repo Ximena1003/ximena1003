@@ -86,4 +86,54 @@
 - Agile Testing & Metodologías Ágiles  
 - Herramientas: Jira, Postman, GitHub Actions
 
+<!-- Banner -->
+<h1 align="center">👋 Hola, soy Ximena</h1>
+<h3 align="center">🔍 QA Engineer | 💼 Administración de Empresas | 👩‍💻 Gestión del Talento | 🚀 Siempre Aprendiendo</h3>
+
+<!-- Animación typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4D7DB6&center=true&vCenter=true&width=600&lines=QA+Engineer+en+progreso;Pruebas+Manual+y+Automatizadas;SQL+%7C+Selenium+%7C+Postman;Rompiendo+cosas+para+mejorarlas+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+---
+
+## 🌟 Sobre mí  
+- 🔍 **QA Engineer** con experiencia en **pruebas manuales y automatizadas**  
+- 🧪 Creación de **planes de prueba, casos de prueba y reporte de bugs**  
+- 💻 Manejo de **SQL, bases de datos, CLI y GitHub workflows**  
+- 🛠️ Herramientas: **Postman, Selenium WebDriver, PyTest, Jira**  
+- 🎯 Orientada a asegurar **calidad, confiabilidad y satisfacción del usuario**  
+- 🤝 Abierta a colaborar en proyectos de **QA y automatización**  
+
+---
+
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Selenium-blue?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTest-yellow?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jira-lightblue?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-QA%20Testing-green?style=for-the-badge&logo=testing-library&logoColor=white" />
+</p>
+
+---
+
+# 🚀 Proyectos Destacados  
+
+## 🔹 [Urban Grocers – Automatización de API](https://github.com/Ximena1003/qa-project-Urban-Grocers-app-es.git)  
+**Objetivo:** Automatizar pruebas de la API de creación de kits para garantizar confiabilidad en el backend.  
+
+**Stack:** Python, PyTest, REST APIs.  
+
+**Cómo ejecutar:**  
+```bash
+git clone https://github.com/Ximena1003/qa-project-Urban-Grocers-app-es.git
+cd qa-project-Urban-Grocers-app-es
+python -m venv venv
+source venv/bin/activate   # Linux/Mac
+venv\Scripts\activate      # Windows
+pip install -r requirements.txt
+pytest -v --html=reports/reporte.html
 
