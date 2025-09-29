@@ -53,12 +53,33 @@
 </p>
 
 ---
+- ## 🚀 Proyectos Destacados  
 
+### 🔹 [Urban Grocers – Automatización de API](https://github.com/Ximena1003/qa-project-Urban-Grocers-app-es.git)  
+**Objetivo:** Automatizar pruebas de la API de creación de kits para garantizar confiabilidad en el backend.  
+**Stack:** Python, PyTest, REST APIs.  
+**Resultados:**  
+- Reducción del **30%** en el tiempo de validación frente a pruebas manuales.  
+- Validación de estructuras JSON y códigos de respuesta para asegurar integridad de datos.  
 
-## 🚀 Proyectos Destacados
-- [Control de Calidad Urban Routes – Automatización de Pruebas con Selenium](https://github.com/Ximena1003/qa-project-Urban-Routes-es.git) 
-- [Proyecto Urban Grocers - Pruebas API Kits](https://github.com/Ximena1003/qa-project-Urban-Grocers-app-es.git)
-- 
+---
+
+### 🔹 [Urban Routes – Automatización Web](https://github.com/Ximena1003/qa-project-Urban-Routes-es.git)  
+**Objetivo:** Automatizar de extremo a extremo los flujos críticos de la aplicación web Urban Routes.  
+**Stack:** Python, Selenium WebDriver, PyTest, Page Object Model (POM).  
+**Resultados:**  
+- **90% de cobertura** en casos críticos (registro, login, reservas, pagos).  
+- Reporte de **15+ issues funcionales**, mejorando la experiencia de validación de rutas.  
+
+---
+
+### 🔹 [Testing Móvil – Android](https://github.com/yourusername/mobile-testing)  
+**Objetivo:** Validar flujos móviles en dispositivos y emuladores Android.  
+**Stack:** Android Studio, Bluestacks, PyTest.  
+**Resultados:**  
+- Ampliación de la cobertura de pruebas móviles.  
+- Mejora en la compatibilidad entre diferentes emuladores.  
+
 ---
 
 ## 🎯 Roadmap 2025
@@ -87,29 +108,4 @@
 - Agile Testing & Metodologías Ágiles  
 - Herramientas: Jira, Postman, GitHub Actions
 
-- ## 🚀 Proyectos Destacados  
 
-### 🔹 [Urban Grocers – Automatización de API](https://github.com/yourusername/urban-grocers)  
-**Objetivo:** Automatizar pruebas de la API de creación de kits para garantizar confiabilidad en el backend.  
-**Stack:** Python, PyTest, REST APIs.  
-**Resultados:**  
-- Reducción del **30%** en el tiempo de validación frente a pruebas manuales.  
-- Validación de estructuras JSON y códigos de respuesta para asegurar integridad de datos.  
-
----
-
-### 🔹 [Urban Routes – Automatización Web](https://github.com/yourusername/urban-routes)  
-**Objetivo:** Automatizar de extremo a extremo los flujos críticos de la aplicación web Urban Routes.  
-**Stack:** Python, Selenium WebDriver, PyTest, Page Object Model (POM).  
-**Resultados:**  
-- **90% de cobertura** en casos críticos (registro, login, reservas, pagos).  
-- Reporte de **15+ issues funcionales**, mejorando la experiencia de validación de rutas.  
-
----
-
-### 🔹 [Testing Móvil – Android](https://github.com/yourusername/mobile-testing)  
-**Objetivo:** Validar flujos móviles en dispositivos y emuladores Android.  
-**Stack:** Android Studio, Bluestacks, PyTest.  
-**Resultados:**  
-- Ampliación de la cobertura de pruebas móviles.  
-- Mejora en la compatibilidad entre diferentes emuladores.  
