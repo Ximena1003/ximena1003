@@ -17,17 +17,6 @@
 - 🎯 Passionate about ensuring **product quality, reliability, and user satisfaction**  
 - 🤝 Open to collaborating on **QA, automation, and tech-driven projects**  
 
----
-
-## 📫 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ximenaarias1003@gmail.com)
----
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ximena1003&label=Profile%20views&color=0e75b6&style=flat" alt="contador" />
-</p>
 
 ---
 
@@ -86,3 +75,16 @@
 - Automatización con Selenium / Cypress  
 - Agile Testing & Metodologías Ágiles  
 - Herramientas: Jira, Postman, GitHub Actions
+
+---
+
+## 📫 Conecta conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ximenaarias1003@gmail.com)
+---
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ximena1003&label=Profile%20views&color=0e75b6&style=flat" alt="contador" />
+</p>
+
