@@ -50,15 +50,6 @@
 **Resultados:**  
 - Reducción del **30%** en el tiempo de validación frente a pruebas manuales.  
 - Validación de estructuras JSON y códigos de respuesta para asegurar integridad de datos.
-- **Cómo ejecutar:**  
-```bash
-git clone https://github.com/Ximena1003/qa-project-Urban-Grocers-app-es.git
-cd qa-project-Urban-Grocers-app-es
-python -m venv venv
-source venv/bin/activate   # Linux/Mac
-venv\Scripts\activate      # Windows
-pip install -r requirements.txt
-pytest -v --html=reports/reporte.html
 
 ---
 
