@@ -19,17 +19,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ximena1003&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ximena1003&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 📫 Conecta conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ximenaarias1003@gmail.com)
@@ -88,17 +77,6 @@
 - 💡 Escribir artículos sobre QA y Talento Humano  
 
 ---
-
-## 🌱 Filosofía
-> *"La calidad no es un rol, es una cultura compartida por todo el equipo."*  
-
----
-
-## ✨ Fun Facts
-- 📚 Siempre aprendiendo sobre nuevas tendencias de QA y gestión de personas.  
-- 🌍 Me encanta la cultura general y viajar.  
-- 🎶 La música me inspira a concentrarme en proyectos.  
-
 
 ## 🚀 Intereses  
 - QA Manual y Automatizado  
